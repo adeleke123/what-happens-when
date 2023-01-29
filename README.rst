@@ -645,7 +645,7 @@ Page Rendering
   above.
 * More complicated steps are taken when elements are ``floated``,
   positioned ``absolutely`` or ``relatively``, or other complex features
-  are used. See
+  are used, See.
   http://dev.w3.org/csswg/css2/ and http://www.w3.org/Style/CSS/current-work
   for more details.
 * Create layers to describe which parts of the page can be animated as a group
